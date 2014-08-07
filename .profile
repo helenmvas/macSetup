@@ -1,2 +1,9 @@
-macSetup
-========
+alias ll="ls -al "
+alias sites="cd ~/Sites"
+alias mysql="/Applications/MAMP/Library/bin/mysql -uroot -proot"
+alias mysqldump="/Applications/MAMP/Library/bin/mysqldump -uroot -proot"
+alias textmate="open -a textmate"
+alias phperror="tail ~/Sites/Logs/error_log"
+alias dukedevweb="vml-cfmplaywebd.duhs.duke.edu"
+alias dukedevdb="vml-cfmplaydbd.dhe.duke.edu"
+alias postgres="'/Applications/Postgres.app/Contents/Versions/9.3/bin'/psql -p5432"
