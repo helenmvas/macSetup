@@ -7,4 +7,3 @@ alias phperror="tail ~/Sites/Logs/error_log"
 alias dukedevweb="vml-cfmplaywebd.duhs.duke.edu"
 alias dukedevdb="vml-cfmplaydbd.dhe.duke.edu"
 alias postgres="'/Applications/Postgres.app/Contents/Versions/9.3/bin'/psql -p5432"
-
